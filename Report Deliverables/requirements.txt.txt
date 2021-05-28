@@ -1,0 +1,11 @@
+matplotlib
+scikit-learn
+skimage
+pydicom
+scipy
+SimpleITK
+pyradiomics
+opencv-python
+seaborn
+torch torchvision
+pywavelets
